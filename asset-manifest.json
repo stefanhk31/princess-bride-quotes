@@ -1,7 +1,7 @@
 {
   "main.css": "/princess-bride-quotes/static/css/main.416c0ad9.chunk.css",
-  "main.js": "/princess-bride-quotes/static/js/main.0c187644.chunk.js",
-  "main.js.map": "/princess-bride-quotes/static/js/main.0c187644.chunk.js.map",
+  "main.js": "/princess-bride-quotes/static/js/main.d2ba412c.chunk.js",
+  "main.js.map": "/princess-bride-quotes/static/js/main.d2ba412c.chunk.js.map",
   "static/js/1.ccf717e8.chunk.js": "/princess-bride-quotes/static/js/1.ccf717e8.chunk.js",
   "static/js/1.ccf717e8.chunk.js.map": "/princess-bride-quotes/static/js/1.ccf717e8.chunk.js.map",
   "runtime~main.js": "/princess-bride-quotes/static/js/runtime~main.db425ef4.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/princess-bride-quotes/static/media/logo.5d5d9eef.svg",
   "static/css/main.416c0ad9.chunk.css.map": "/princess-bride-quotes/static/css/main.416c0ad9.chunk.css.map",
   "index.html": "/princess-bride-quotes/index.html",
-  "precache-manifest.7637a40616fc6ffb9cbac7a2ea512316.js": "/princess-bride-quotes/precache-manifest.7637a40616fc6ffb9cbac7a2ea512316.js",
+  "precache-manifest.c8f1dbb6cfa976cacbf239d2cce8496f.js": "/princess-bride-quotes/precache-manifest.c8f1dbb6cfa976cacbf239d2cce8496f.js",
   "service-worker.js": "/princess-bride-quotes/service-worker.js"
 }
