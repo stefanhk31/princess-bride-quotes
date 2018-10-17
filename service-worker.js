@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/princess-bride-quotes/precache-manifest.c8f1dbb6cfa976cacbf239d2cce8496f.js"
+  "/princess-bride-quotes/precache-manifest.daa63db282913d06a0d4c4f43ff1ba29.js"
 );
 
 workbox.clientsClaim();
